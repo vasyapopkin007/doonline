@@ -1,0 +1,25 @@
+.li {
+    font-size: xx-large;
+}
+.col-4 img {
+    width: 130px;
+    height: 75px;
+}
+.float-end {
+    margin-right: 200px;
+}
+.h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+.row #12345 { height: 100px;
+}
+/* body {
+    background-image: url('pricing-section.jpg');
+    background-size: cover;
+    background-position:;
+    height: 100%;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+} */
